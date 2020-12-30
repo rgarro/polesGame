@@ -1,0 +1,15 @@
+﻿<flash_project name="gamecase1" version="1">
+    <project_folder name="bin" expanded="false">
+    </project_folder>
+    <project_folder name="source" expanded="true">
+        <project_file path="./source/main.as" filetype="as" />
+        <project_file path="./source/gamecase1.fla" filetype="fla" profile="" def_file="true" />
+        <project_file path="./source/gamecase1.as" filetype="as" />
+        <project_file path="./source/dynpole.as" filetype="as" />
+        <project_file path="./source/dynpointer.as" filetype="as" />
+        <project_file path="./source/tweenEffects.as" filetype="as" />
+        <project_file path="./source/dynresetbtn.as" filetype="as" />
+        <project_file path="./source/Particle.as" filetype="as" />
+        <project_file path="./source/scorecard.as" filetype="as" />
+    </project_folder>
+</flash_project>
